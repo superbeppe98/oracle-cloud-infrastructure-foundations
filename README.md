@@ -8,6 +8,7 @@
 - Module 5: [Networking](./5_Networking.md)
 - Module 6: [Compute](./6_Compute.md)
 - Module 7: [Storage](./7_Storage.md)
+- Module 8: [Database](./8_Database.md)
 <br>
 
 ## Course Overview

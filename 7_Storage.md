@@ -58,6 +58,56 @@
 
 ## Block volume
 
+- Persistent and durable storage
+- Create and attach disks
+- Detach and delete disks
+- Retain disks after instance deletion
 
+- Block Volume Tiers
+    - Basic
+    - Balanced
+    - Higher performance
+    - Ultra Higher Performance
+ - IOPS per GB
 
-[Go to Next Module](./)
+- Auto-Tune Performance
+- Encrypted Block Volumes
+- BYOK
+- In-Transit Encryption
+- Read/write Shareable (VMs talk to one disks)
+- Resizing Block Volumes online and offline
+- Replication of Block Volumes across regions
+    - Disaster Recovery
+    - Migration
+    - Business Expansion
+    - Asynchronous replication
+- Volume groups
+    - Backups across volume and instances
+
+## File Storage
+
+- Collections of documents organized into named directories
+
+- Use cases:
+    - EBS
+    - General purpose file systems
+    - Micro services and containers
+    - Scale out apps
+    - Analitycs
+
+- Support NFS v3
+- Snapshots
+- Security
+
+## Migration Services
+
+- Offline and Online Migration
+- Data Transfer disk
+- Data Transfer Appliance throught a Site
+
+- Storage Gateway Service
+    - Docker image
+    - NFS mount point on clients
+    - Connect to a OCI Object Storage
+
+[Go to Next Module](./8_Database.md)
