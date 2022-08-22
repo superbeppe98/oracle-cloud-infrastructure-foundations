@@ -9,6 +9,7 @@
 - Module 6: [Compute](./6_Compute.md)
 - Module 7: [Storage](./7_Storage.md)
 - Module 8: [Database](./8_Database.md)
+- Module 9: [App Dev](9_App_Dev.md)
 <br>
 
 ## Course Overview
