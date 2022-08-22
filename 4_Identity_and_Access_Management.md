@@ -44,4 +44,7 @@
 - OCI Admin: Set of users
     - OCI-admin-group with OCI Admin with they own policies on a compartment
 
+## Hands-On Activity: IAM
+A pdf with an exercise to practicing IAM
+
 [Go to Next Module](./5_Networking.md)

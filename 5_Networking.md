@@ -44,5 +44,7 @@
 - Proxy connections
 - Load balancer use Layer 7 but Network load balancer use Layer 4
 
+## Hands-On Activity: Networking
+A pdf with an exercise to practicing with networking
 
 [Go to Next Module](./6_Compute.md)
