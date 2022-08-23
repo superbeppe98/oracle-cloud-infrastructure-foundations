@@ -130,4 +130,7 @@
 
 - Case study overview for an hotel
 
+## Hands-On Activity: Resource Manager
+A pdf with an exercise to practicing with resource manager
+
 [Go to Next Module](./10_Observability_and_Management.md)
