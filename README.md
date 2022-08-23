@@ -29,3 +29,7 @@
 ## Grading Scheme
 - Graded Quiz(50%, no time limit) + Final Exam(50%, 1-hour time limit)
 <br>
+
+## Badge
+![OCIF2022CA](https://user-images.githubusercontent.com/29455975/186201418-bd2da459-f641-4bee-ac43-1d6508f51702.jpg)
+<br>
