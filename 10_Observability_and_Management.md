@@ -43,9 +43,29 @@
 
 ## Logging
 
+- Centralized and secure log management for all logs
+- Built on open standards
+    - Searchable
+    - Actionable
+    - Transportable
+    -Service Connector HUB
+- Log Encryption
 
+- Categories
+    - Log Groups
+    - Service logs
+    - Custom logs
+    - Audit logs
 
 ## Events
 
+- OCI Events Service
+    - Real time
+    - Fast alerts on state change
+
+- Concepts: structured and schematized messages
+    - Resources
+    - Events Service throught rules
+    - Event Types throught action
 
 [Go to Next Module](./11_Analytics_and_AI.md)
