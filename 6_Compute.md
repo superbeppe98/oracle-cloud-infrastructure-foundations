@@ -60,4 +60,7 @@
 - OSMS simplified package management
 - Search common vulnerabilities and exposures lookup
 
+## Hands-On Activity: Compute
+A pdf with an exercise to practicing with compute
+
 [Go to Next Module](./7_Storage.md)

@@ -108,6 +108,12 @@
 - Storage Gateway Service
     - Docker image
     - NFS mount point on clients
-    - Connect to a OCI Object Storage
+    - Connect to a OCI Object Storage.
+
+## Hands-On Activity: Object Storage
+A pdf with an exercise to practicing with object storage
+
+## Hands-On Activity: Block storage
+A pdf with an exercise to practicing with block storage
 
 [Go to Next Module](./8_Database.md)

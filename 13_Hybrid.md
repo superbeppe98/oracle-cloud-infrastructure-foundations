@@ -2,6 +2,8 @@
 
 ## Hybrid Introduction
 
+
+
 ## Dedicated Regions
 
 ## Oracle Cloud VMware Solution

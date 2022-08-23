@@ -95,4 +95,10 @@
     - Big data
     - Social network
 
+## Hands-On Activity: Autonomous Database
+A pdf with an exercise to practicing with Autonomous Database
+
+## Hands-On Activity: Autonomous JSON
+A pdf with an exercise to practicing with Autonomous JSON
+
 [Go to Next Module](./9_App_Dev.md)
