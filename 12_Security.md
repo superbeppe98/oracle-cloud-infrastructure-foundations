@@ -80,6 +80,8 @@
 
 ## Bastion
 
-
+- Secure and Seamless
+- Integration with IAM Service
+- CIDR block allow list
 
 [Go to Next Module](./13_Hybrid.md)
